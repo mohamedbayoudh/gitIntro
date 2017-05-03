@@ -10,7 +10,7 @@ public class EditMe {
 
 	/**
 	 * 
-	 * @return "bare"
+	 * @return "bar"
 	 */
 	public String getFoo() {
 		return "bar";
